@@ -27,8 +27,6 @@ import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 
 public class Main extends Application implements EventHandler<ActionEvent>{
-
-	private int two = 2;
 	
 	private static final int WINDOW_SIZE_WIDTH = 800;
 	private static final int WINDOW_SIZE_HEIGHT = 600;
